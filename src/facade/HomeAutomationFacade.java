@@ -2,6 +2,7 @@ package facade;
 
 import decorators.*;
 import devices.*;
+import home.Battery;
 
 public class HomeAutomationFacade {
     private final Device baseLight;

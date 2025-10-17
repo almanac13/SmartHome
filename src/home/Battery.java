@@ -1,6 +1,4 @@
-package devices;
-
-import java.util.Random;
+package home;
 
 public class Battery {
     private double batteryCapacity;

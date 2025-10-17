@@ -1,6 +1,6 @@
 package decorators;
 
-import devices.Battery;
+import home.Battery;
 import devices.Device;
 
 public class EnergySavingDecorator extends DeviceDecorator {
